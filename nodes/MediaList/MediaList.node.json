@@ -1,0 +1,10 @@
+{
+	"node": "n8n-nodes-medialist.mediaList",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing & Content", "Sales"],
+	"resources": {
+		"credentialDocumentation": [{ "url": "https://medialist.com/developers" }],
+		"primaryDocumentation": [{ "url": "https://github.com/medialistcom/n8n-nodes-medialist#readme" }]
+	}
+}

@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-medialist",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n node for Media List. Find journalists, editors, producers, podcast hosts and creators, and read your Media List lists and campaigns.",
 	"license": "MIT",
 	"homepage": "https://medialist.com",
